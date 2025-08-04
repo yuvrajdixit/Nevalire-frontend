@@ -7,7 +7,7 @@ const Prototype = () => {
     <div className='Prototype-container'>
         <h2>Nevalire.</h2>
         <div className="image-box">
-        <img src="../Assets/ss.png" alt="Descriptive text" />
+        <img src="ss.png" alt="Descriptive text" />
         </div>
     </div>
   )
