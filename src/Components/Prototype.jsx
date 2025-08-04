@@ -1,5 +1,7 @@
 import React from 'react'
-import mockup from '\src\Assets\Screenshot 2025-08-02 191309.png';
+import Screenshot from '../assets/Screenshot 2025-08-02 191309.png'; 
+
+
 const Prototype = () => {
   return (
     <div className='Prototype-container'>
