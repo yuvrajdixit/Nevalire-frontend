@@ -1,5 +1,5 @@
 import React from 'react'
-import Screenshot from '../assets/Screenshot 2025-08-02 191309.png'; 
+import mockup from '../assets/Screenshot 2025-08-02 191309.png'; 
 
 
 const Prototype = () => {
